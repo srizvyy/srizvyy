@@ -1,8 +1,9 @@
 <!-- [![MasterHead](https://wallpapercave.com/wp/wp7039131.png)](https://saimrizvi.netlify.app/)  -->
 <h1 align="center">Hi 👋, I'm Saim Rizvi</h1>
 <h3 align="center">I am a software engineer</h3>
-<img align="center" alt ="Coding" width="900" src="https://secretmag.ru/imgs/2019/11/18/16/3659961/4c76f0d649a2246740850eb9a26cfda93060fa53.gif">
-
+<p align="center">
+<img  alt ="Coding" width="400" src="https://secretmag.ru/imgs/2019/11/18/16/3659961/4c76f0d649a2246740850eb9a26cfda93060fa53.gif">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srizvyy&label=Profile%20views&color=0e75b6&style=flat" alt="srizvyy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srizvyy" alt="srizvyy" /></a> </p>
