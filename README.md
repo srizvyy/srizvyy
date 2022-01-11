@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srizvyy" alt="srizvyy" /></a> </p>
 
-- 🌱 I’m currently learning **python, typescript**
+- 🌱 I’m currently learning **Python, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://saimrizvi.netlify.app/](https://saimrizvi.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@SaimRizvi](https://medium.com/@SaimRizvi)
 
-- 💬 Ask me about **javascript, react, ruby, rails**
+- 💬 Ask me about **JavaScript, React, Ruby, Rails**
 
 - 📫 How to reach me **rizvish101@gmail.com**
 
